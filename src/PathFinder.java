@@ -6,7 +6,6 @@ import java.util.*;
 public class PathFinder extends JFrame {
 
     private char[][] grid;
-    private static String fileName;
     private boolean[][] visited;
     private Nodes node;
     private final ArrayList<Nodes> store = new ArrayList<>();
@@ -21,15 +20,13 @@ public class PathFinder extends JFrame {
     long endTime;
 
     public static void main(String[] args) {
-        fileName = "maze25_1.txt";
-        path.fileRead(fileName);
+        path.fileRead("test/puzzle_160.txt");
     }
 
     public void fileRead(String name) {
         try {
-            InputStream stream = ClassLoader.getSystemResourceAsStream(name);
-            assert stream != null;
-            BufferedReader buffer = new BufferedReader(new InputStreamReader(stream));
+            FileReader fileRead = new FileReader(name);
+            BufferedReader buffer = new BufferedReader(fileRead);
             buffer.mark(1);
 
             String line;
@@ -53,8 +50,7 @@ public class PathFinder extends JFrame {
     }
 
     public void findThePath(){
-        startTime = System.nanoTime();
-        System.out.println(startTime);
+        startTime = System.currentTimeMillis();
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[i].length; j++) {
                 // Finding source
@@ -75,8 +71,7 @@ public class PathFinder extends JFrame {
             int columnNumberVisited = itemVisited.getColumnNumber();
 
             if (grid[rowNumberVisited][columnNumberVisited] == 'F') {
-                endTime = System.nanoTime();
-                System.out.println(endTime);
+                endTime = System.currentTimeMillis();
                 pathFound = true;
                 break;
             }
@@ -183,7 +178,7 @@ public class PathFinder extends JFrame {
         output += count + ". Done!\n\n";
 
         long time = endTime - startTime;
-        System.out.println("Time elapsed : " + time + " nano seconds");
+        System.out.println("Time elapsed : " + time + "ms");
         System.out.println("To visualize the path enter (Y/y) or to end (Q/q) : ");
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
