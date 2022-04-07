@@ -3,6 +3,7 @@ public class Nodes {
     private int columnNumber;         // column number of the node
     private Nodes previous;    // node object to store its parent node
     private String move;
+    public boolean solution;
 
     public Nodes(int rowNumber, int columnNumber) {
         this.rowNumber = rowNumber;
