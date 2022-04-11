@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f6530e7-8a4c-4069-bebc-6c18ab0371f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1833590_AlgoCW/Nodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1833590_AlgoCW/PathFinder$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1833590_AlgoCW/PathFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1833590_AlgoCW/map.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1833590_AlgoCW/map2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1833590_AlgoCW/maze25_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PathFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maze25_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze10_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze10_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze10_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze10_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze10_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze15_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze15_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze15_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze15_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze15_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze20_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze20_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze20_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze20_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze20_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze25_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze25_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze25_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze25_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze25_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze30_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze30_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze30_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze30_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/maze30_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/puzzle_1280.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/puzzle_160.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/puzzle_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/puzzle_2560.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/puzzle_320.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/puzzle_40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/puzzle_640.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/puzzle_80.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1833590_AlgoCW.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27C13vjRu9OCyL8qvq2JnyQQOB6" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PathFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PathFinder" />
+      <module name="w1833590_AlgoCW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PathFinder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f6530e7-8a4c-4069-bebc-6c18ab0371f0" name="Changes" comment="" />
+      <created>1648809059636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648809059636</updated>
+      <workItem from="1648809061059" duration="1824000" />
+      <workItem from="1648990415409" duration="677000" />
+      <workItem from="1649078716030" duration="7662000" />
+      <workItem from="1649143880664" duration="39000" />
+      <workItem from="1649144378150" duration="63209000" />
+      <workItem from="1649351647507" duration="276000" />
+      <workItem from="1649355290673" duration="599000" />
+      <workItem from="1649485485110" duration="652000" />
+      <workItem from="1649531565556" duration="1829000" />
+      <workItem from="1649576318079" duration="28294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
